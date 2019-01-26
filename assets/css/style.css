@@ -1,0 +1,32 @@
+#blue {
+  width: 200px;
+  height: 200px;
+  cursor: pointer;
+  background-color: white;
+  border: solid;
+  border-color: lightblue;
+}
+#green {
+  width: 200px;
+  height: 200px;
+  cursor: pointer;
+  background-color: white;
+  border: solid;
+  border-color: lightblue;
+}
+#yellow {
+  width: 200px;
+  height: 200px;
+  cursor: pointer;
+  background-color: white;
+  border: solid;
+  border-color: lightblue;
+}
+#red {
+  width: 200px;
+  height: 200px;
+  cursor: pointer;
+  background-color: white;
+  border: solid;
+  border-color: lightblue;
+}
